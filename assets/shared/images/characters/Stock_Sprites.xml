@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Stock_Sprites.png"><SubTexture name="Stock idle0000" x="0" y="0" width="455" height="465" frameX="0" frameY="0" frameWidth="455" frameHeight="465" />
+<SubTexture name="Stock sing down0000" x="455" y="0" width="455" height="465" frameX="0" frameY="0" frameWidth="455" frameHeight="465" />
+<SubTexture name="Stock sing up0000" x="0" y="465" width="455" height="465" frameX="0" frameY="0" frameWidth="455" frameHeight="465" />
+<SubTexture name="Stock sing left0000" x="455" y="465" width="455" height="465" frameX="0" frameY="0" frameWidth="455" frameHeight="465" />
+<SubTexture name="Stock sing right0000" x="0" y="930" width="455" height="465" frameX="0" frameY="0" frameWidth="455" frameHeight="465" />
+</TextureAtlas>
